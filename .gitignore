@@ -1,0 +1,16 @@
+.idea
+out
+.gradle
+build
+*.iml
+*.jar
+*.war
+*.ear
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+*.properties
+config.properties
+src/main/resources/reports
+src/main/resources/keys
+src/main/resources/config.properties
